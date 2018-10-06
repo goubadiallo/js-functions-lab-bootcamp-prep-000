@@ -11,9 +11,7 @@ return "Happy holidays, you!"
 }
 happyHolidaysTo("Happy holidays, you!")
 var happyHolidaysTo = 'holiday,name'
-return 'Happy Independence Day, you!'
 
-happyHolidaysTo("Independence Day', 'you'")
 
  
  function holidayCountdown(holiday, days){
