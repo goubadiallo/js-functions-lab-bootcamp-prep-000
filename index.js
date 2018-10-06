@@ -9,7 +9,7 @@ happyHolidays('Happy holidays!')
 function happyHolidaysTo(name){
 happyHolidaysTo("Happy holidays, you!")
 }
-happyHolidaysTo()
+happyHolidaysTo("Happy holidays, you!")
 
 
  
