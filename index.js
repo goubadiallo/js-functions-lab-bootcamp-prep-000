@@ -5,11 +5,12 @@ function happyHolidays(name){
 }
 happyHolidays('Happy holidays!')
   
+  
 
 function happyHolidaysTo(name){
-//return "Happy holidays, you!"
+return "Happy holidays, you!"
 }
-//happyHolidaysTo("Happy holidays, you!")
+happyHolidaysTo("Happy holidays, you!")
 
 function happyHolidaysTo(holiday, name){
   return 'Happy Independence Day, you!'
