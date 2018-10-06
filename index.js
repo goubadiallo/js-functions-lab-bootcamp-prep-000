@@ -12,8 +12,6 @@ return "Happy holidays, you!"
 }
 happyHolidaysTo("Happy holidays, you!")
 
-function happyHolidaysTo(holiday, name){
-  return 'Happy Independence Day, you!'
 }
 happyHolidaysTo ("'Independence Day', 'you'")
  
