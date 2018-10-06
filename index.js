@@ -10,7 +10,7 @@ function happyHolidaysTo(name){
 return "Happy holidays, you!"
 }
 happyHolidaysTo("Happy holidays, you!")
-var str  = '${holiday}, ${name}'
+var happyHolidaysTo = 'holiday,name'
 
 
  
