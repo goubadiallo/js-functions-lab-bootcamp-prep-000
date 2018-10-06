@@ -10,7 +10,7 @@ function happyHolidaysTo(name){
 return "Happy holidays, you!"
 }
 happyHolidaysTo("Happy holidays, you!")
-var str
+var str  = '${holiday}, ${name}'
 
  
  function holidayCountdown(holiday, days){
